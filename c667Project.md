@@ -89,3 +89,5 @@ A [Demo Video](https://www.youtube.com/watch?v=cPDtPJsbbAM) of the game is linke
   * Games  - FIFA Penalty Shootouts
   * VR applications - Sensors could be attached to the shoe bottom and interfaced (eg. exergames)
 
+## Slides
+https://docs.google.com/presentation/d/1ZN8BL0Ad5QLf2Pp-vrDeRaET0p_sJqTpr_WlCaOeTek/edit?usp=sharing
