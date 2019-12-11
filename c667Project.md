@@ -1,5 +1,5 @@
 # Force Sensing Mouse and its Applications
-Chen Liang, Suresh Gandhi
+Chen Liang, Suresh Gandhi <br>
 CSCE667 Class Project
 Instructor: Professor Kim
 ## Abstract
