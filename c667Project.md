@@ -12,9 +12,9 @@ Many human-computer interaction techniques - such as mouse and user interfaces -
   <i>When too many windows opened, it's very hard to select the one you want, or interact between two different windows.</i>
 </div>
 ## Characteristics
-<b>Low learning cost: </b>  No fancy 3D effect. No additional interaction devices. User still uses mouse to interact with similar user interfaces, just have to press the mouse and realize that interfaces are stacked together.
-<b>Low deployment cost: </b> Each sensor costs $2 only. Software can be directly used on Windows systems.
-<b>Effective: </b> Interaction can be easier and faster, especially in situations where many windows are opened.
+<b>Low learning cost: </b>  No fancy 3D effect. No additional interaction devices. User still uses mouse to interact with similar user interfaces, just have to press the mouse and realize that interfaces are stacked together.<br>
+<b>Low deployment cost: </b> Each sensor costs $2 only. Software can be directly used on Windows systems.<br>
+<b>Effective: </b> Interaction can be easier and faster, especially in situations where many windows are opened.<br>
 ## Images of the Mouse
 <div style="text-align:center">
   <img src="https://liangch0505.github.io/images/c667_Mouse1.jpg" /><br>
